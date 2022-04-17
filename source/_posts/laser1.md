@@ -26,7 +26,7 @@ Revêtement laser - De nombreux revêtements métalliques en poudre pour les com
 
 Perçage au laser — Par rapport au perçage mécanique standard, le perçage au laser offre des coûts inférieurs, un temps de traitement plus court et des capacités considérablement étendues, notamment des géométries de haute précision et complexes.
 
-### Avantages du pointeur laser rouge
+### Avantages du pointeur laser rouge ([https://www.laserpointeur.com/c-40_77_80.html](https://www.laserpointeur.com/c-40_85.html))
 
 *Le pointeur laser rouge offre de nombreux avantages à l'industrie aérospatiale : flexibilité dans la conception et la fabrication, fabrication de composants plus légers, réduction des coûts, etc.*
 
@@ -49,6 +49,20 @@ Un nombre croissant d'applications médicales - du diagnostic des maladies et de
 
 Ces gants laser sont utilisés dans les accélérateurs de particules National Lab depuis de nombreuses années. Cependant, les progrès technologiques récents ont élargi les capacités du laser pour inclure l'expansion des particules, qui peut être utilisée dans des systèmes opérationnels allant du diagnostic de faisceau sans risque et non intrusif à des applications élaborées avec des niveaux de préparation technique élevés, tels que des photoinjecteurs fournissant des faisceaux d'électrons à haute luminosité.
 
-**Un autre développement récent et percutant dans la tentative de créer des gants laser plus petits a été celui qui fonctionne à température ambiante et à la lumière des télécommunications. Ces gants laser, un quinzième de la taille de la lumière qu'ils produisent, fonctionnent plus efficacement en transportant de grandes quantités de données à un rythme beaucoup plus rapide que l'électronique à semi-conducteurs.**
+**Un autre développement récent et percutant dans la tentative de créer des gants laser plus petits a été celui qui fonctionne à température ambiante et à la lumière des télécommunications. Ces [gants laser](https://www.laserpointeur.com/c-40_85.html), un quinzième de la taille de la lumière qu'ils produisent, fonctionnent plus efficacement en transportant de grandes quantités de données à un rythme beaucoup plus rapide que l'électronique à semi-conducteurs.**
 
 Nous suivons l'évolution des demandes de l'industrie à mesure que de nouvelles technologies continuent d'émerger. La taille du laser, l'efficacité énergétique et la stabilité de sortie sont tous des facteurs que les clients ne peuvent pas nécessairement voir, mais qui peuvent grandement affecter les coûts et la cohérence de l'équipement.
+
+
+
+
+
+### Heading 3
+
+**Bold Text**
+
+*Italic Text*
+
+[This link](https://www.laserpointeur.com/c-40_85.html)
+
+
