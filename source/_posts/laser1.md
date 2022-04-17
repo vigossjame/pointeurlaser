@@ -51,24 +51,4 @@ Ces gants laser sont utilisés dans les accélérateurs de particules National L
 
 **Un autre développement récent et percutant dans la tentative de créer des gants laser plus petits a été celui qui fonctionne à température ambiante et à la lumière des télécommunications. Ces gants laser, un quinzième de la taille de la lumière qu'ils produisent, fonctionnent plus efficacement en transportant de grandes quantités de données à un rythme beaucoup plus rapide que l'électronique à semi-conducteurs.**
 
-image: https://www.laserpointeur.com/images/p/l/211231/ST00300.jpg
-
 Nous suivons l'évolution des demandes de l'industrie à mesure que de nouvelles technologies continuent d'émerger. La taille du laser, l'efficacité énergétique et la stabilité de sortie sont tous des facteurs que les clients ne peuvent pas nécessairement voir, mais qui peuvent grandement affecter les coûts et la cohérence de l'équipement.
-
-
-
-
-
-### Heading 3
-
-**Bold Text**
-
-*Italic Text*
-
-This is [an example](http://example.com/ "Title") inline link.
-
-[This link](http://example.net/) has no title attribute.
-
-image: https://res.cloudinary.com/artisanstatic/sample.jpg
-
-
