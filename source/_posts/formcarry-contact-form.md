@@ -6,7 +6,7 @@ tags:
 - javascript
 - php
 - laravel
-image: https://www.laserpointeur.com/images/banners/Pointeur%20laser%20rouge%20USB%20puissant.jpg
+image: https://www.laserpointeur.com/images/p/l/160321/570.jpg
 ---
 ## Conseils pour jouer au laser
 
