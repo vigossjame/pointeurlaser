@@ -1,40 +1,30 @@
 ---
-title: '07 - Formcarry Contact Form'
-date: 2021-11-25
-image: https://res.cloudinary.com/artisanstatic/contact.jpg
-comments: false
+title: 'Conseils pour jouer au laser'
+date: 2022-03-22
+tags:
+- css
+- javascript
+- php
+- laravel
+image: https://www.laserpointeur.com/images/banners/Pointeur%20laser%20rouge%20USB%20puissant.jpg
 ---
-Register on [Formcarry](https://formcarry.com/register).
+## Conseils pour jouer au laser
 
-Get your **Formcarry ID**, go to `config.php` and add your ID under the `services` key.
+Il existe de nombreuses options pour renvoyer ce pointeur [laser vert de 50mW](https://www.laserpointeur.com/c-41_86-p-9866.html). Dommage, j'aurais aimé un jouet laser où il n'est pas nécessaire de maintenir le bouton enfoncé. Mes 10 chats évalueraient le pointeur laser 50mW avec l'herbe à chat, mais ma famille tire également beaucoup de plaisir du pointeur laser. Nous ADORONS jouer avec et les regarder poursuivre ce point rouge insaisissable. Parfois, il est amusant de simplement le faire briller au plafond et de les regarder le suivre. Le faire courir dans une belle pièce large et monter une porte ou un mur est également amusant.
 
-```php
-<?php
+Je ne connais aucun autre jouet que les chats aiment mieux qu'un jouet laser. Mes chats vont ga-ga pour eux, et ils apprécient celui-ci. Je ne peux pas imaginer avoir des chatons sans un. Lorsque mon équipe de 4 frères et sœurs était des chatons, nous avions une balle qui faisait passer la lumière laser verte sur le sol de la cuisine jusqu'à la porte. Il était facile de dire qui était l'athlète en voyant comment sauterait le plus haut. Notre petite chatte handicapée ne pouvait pas participer mais elle adorait regarder, et quand les autres se fatiguaient, nous la faisions briller là où elle était allongée, pour qu'elle puisse jouer avec ses pattes avant sans avoir à se lever. Nous jouons encore beaucoup avec elle comme ça, alors ne pensez pas que les chats doivent être très sportifs pour en profiter - s'ils peuvent tendre la patte, ils peuvent jouer.
 
-return [
-    // ...
-    'services' => [
-        'formcarry' => 'XXXXXXXXXXXX',
-    ],
-    // ...
-];
-```
+*Celui-ci prend 2 piles AAA. La seule préoccupation que j'ai à ce sujet est que nous connaissant, nous pourrions éventuellement perdre le compartiment de la batterie, ou laisser tomber l'appareil et le faire voler et ne jamais se remettre en place. Si c'est le cas, du ruban adhésif sera sur la poignée. Je considère cela comme un compromis pour le fait qu'il ne nécessite PAS de tournevis pour s'ouvrir, de sorte que les piles sont faciles à changer. La seule façon dont j'aimerais que ce soit mieux, c'était s'il était rechargeable par USB. J'aime le fait qu'il faut des piles AAA, cependant.*
 
-Go to `source/_assets/js/contact.js` and change `fakeSend(contactForm)` to `send(contactForm)` in the lines shown below.
+Celui-ci clignote ou a un point fixe. Un clic, il s'allume et clignote un autre clic, et il est stable. Ce ne sont pas des motifs fantaisistes, mais mon expérience est que les chats s'en fichent. J'aime que celui-ci ne ressemble pas à un stylo, car le type de stylo est facile à perdre, et ils semblent toujours se déchirer en un mois ou deux, et beaucoup doivent maintenir le bouton enfoncé pour que le [pointeur laser de 500 mW](https://www.laserpointeur.com/c-41_90-p-9944.html) vienne sur. Cela peut sembler paresseux, mais après plusieurs minutes de jeu, maintenir un bouton enfoncé peut devenir très fastidieux !
 
-```js
-e.preventDefault();
-e.target.elements['submit'].disabled = true;
 
-fakeSend(contactForm) // edit this line
-    .then((response) => {
-        notyf.success('Your message has been sent.');
-        contactForm.reset();
-    })
-```
+J'ai été déçu de cet achat. C'est ridicule qu'il ait cessé de fonctionner. J'ai contacté le vendeur qui m'a proposé un remboursement d'un seul dollar. Je recommande d'essayer une autre marque/entreprise/vendeur. Nous sommes ravis d'offrir les puissants pointeurs laser de 500 mW. Les aimables pointeurs laser à un, deux et trois lasers sont dotés de capteurs PIR (infrarouge passif) réglables pour la détection de mouvement à moins de 70 pieds, et des capteurs photoélectriques intégrés du crépuscule à l'aube garantissent que le pointeur laser ne s'allume que la nuit. Les options de minuterie incluent une, cinq ou 10 minutes ainsi qu'une option de remplacement pour le mode constant.
 
-And finally, remove this line.
+Chaque pointeur laser est doté d'une LED à puces sur carte (COB) fonctionnant à froid, et le simple, le double et ils émettent respectivement un faisceau laser. Ces appareils laser fonctionnent dans une plage de 90 à 135 V CA. Si vous avez parcouru notre blog, vous avez peut-être remarqué qu'il existe une tonne d'informations non seulement sur les pointeurs laser, mais sur tout ce qui concerne l'éclairage. Peut-être que vous êtes déjà un génie du laser, que vous débutez ou que vous souhaitez simplement tester vos connaissances avant de lire nos articles. Nous avons développé un quiz pour voir où vous en êtes.
 
-```js
-const fakeSend = () => new Promise((resolve) => setTimeout(resolve, 2000));
-```
+Ces pointeurs laser vert 1000 mW sont conçus pour durer cinq fois plus longtemps que les autres appareils laser sans le bourdonnement ou le scintillement notoire qu'ils produisent. Chaque pointeur laser est doté d'un cadre mince en alliage d'aluminium blanc et d'un pilote de courant constant interne à intensité variable de 0 à 10 volts. La gradation peut être obtenue avec un interrupteur 0-10 volts ou en utilisant la fonction de cycle d'alimentation de la lumière pour activer les niveaux de luminosité définis. Les lasers économes en énergie fonctionnent dans une plage de 100 à 277 V CA. Entre les cours, les activités parascolaires et les emplois à temps partiel, il y aura un chemin sombre en cours de route. La lampe de poche rechargeable robuste peut durer jusqu'à 8 heures et offre quatre modes d'éclairage principaux : élevé, moyen, faible et stroboscopique.
+
+Le [pointeur laser de 1000 mW](https://www.laserpointeur.com/c-41_91-p-9954.html) est livré avec un vase givré et une télécommande sans fil pour régler les couleurs. Choisissez entre 12 couleurs statiques ou une option de changement de couleur dynamique, choisissez le mode de scintillement stable ou réaliste, réglez la lumière sur l'une des deux options de minuterie différentes et profitez-en. Recommande fortement ce produit. Celui-ci, bien que moins cher que la plupart des pointeurs laser de bureau, est tout simplement trop faible. J'achèterai plutôt un laser d'officier pour mon chien - avec une batterie rechargeable rien de moins. Basculement facile pour l'éteindre et l'allumer et bien sûr, le chat adore ça ! Je vais en acheter un pour mon ami.
+
+**Un conseil, cependant : collez le couvercle des piles après avoir installé les piles, car il a tendance à tomber et à se perdre. Celui-ci est de loin supérieur à deux égards : 1) la lumière reste allumée ! (Cela semble idiot, mais votre doigt commence à vous faire mal lorsque vous devez maintenir le bouton enfoncé pour attirer l'attention du chat !) 2) Cela utilise des piles AAA !**
