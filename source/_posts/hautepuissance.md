@@ -36,7 +36,7 @@ Bien que la sécurité soit une fonction pratique, ce pointeur laser peut aussi 
 
 Donc, revenons maintenant au laser de classe 3 récemment pointé sur la police. Selon la classification laser, ce laser est capable de causer de graves lésions oculaires par lui-même. Plus important encore, cependant, est le danger aveuglant qui aurait pu provoquer l'écrasement de l'avion. La perte de la vie est une possibilité réelle dans une situation comme celle-là. Il a mis de vraies vies en danger.
 
-Bien que la réaction instinctive attendue de certains soit d'interdire tous les lasers, je ne pense pas que ce soit ainsi que nous résolvions le problème. L'éducation est la solution miracle (laser argenté ?) à de nombreux problèmes comme celui-ci.
+Bien que la réaction instinctive attendue de certains soit d'interdire tous les lasers, je ne pense pas que ce soit ainsi que nous résolvions le problème. L'éducation est la solution miracle (laser argenté ?) à de nombreux problèmes comme celui-ci.1
 
 **Vous avez des questions sur la sécurité laser ou vous avez besoin d'équipement de sécurité ? Génial! Utilisez le bouton ci-dessous pour entrer en contact avec notre personnel.**
 
